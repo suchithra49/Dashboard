@@ -1,5 +1,3 @@
-Sure 👍 Here is your README file in plain text format — you can copy and paste it anywhere:
-
 Retail Sales & Profit Analysis Dashboard Using Power BI
 📌 Project Overview
 
